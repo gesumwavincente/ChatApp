@@ -7,7 +7,7 @@ import './TextContainer.css';
 const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
-    <h1>Type your name and roomID(ex. any number) and share the link with the credentials to chat with others <span role="img" aria-label="emoji">❤️</span></h1>
+    <h1>Type your Name and RoomID(ex. any number) and share the link with the credentials to chat with others <span role="img" aria-label="emoji">❤️</span></h1>
 
     <h2>Realtime Chat Application<span role="img" aria-label="emoji">⬅️</span></h2>
       
